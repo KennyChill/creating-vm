@@ -80,26 +80,19 @@ Azure is a cloud computing platform and an online portal that allows you to acce
     - Create your own password
 * Click the box under licensing and finally click Review + Create 
 
-![Screenshot 2024-11-24 220704](https://github.com/user-attachments/assets/769ca32c-744e-42f5-8790-f619c597e2f9)
-
-![Screenshot 2024-11-24 220734](https://github.com/user-attachments/assets/32a508d6-391a-4132-b941-92280303c5c4)
-
-
-![Screenshot 2024-11-24 220854](https://github.com/user-attachments/assets/21a6e24e-6781-4fd9-a151-d66d9c975e62)
-
-
-
-
-
-
- 
-     
 
 <h3>Step 5: Connect to the Virtual Machine</h3>
 
 - First, you will need to find the public IP address of your virtual machine
    - Select the virtual machine we created and the public IP address will be on the right-hand side of the screen
    - Copy the public IP address
+
+![Screenshot 2024-11-24 220704](https://github.com/user-attachments/assets/769ca32c-744e-42f5-8790-f619c597e2f9)
+
+![Screenshot 2024-11-24 220734](https://github.com/user-attachments/assets/32a508d6-391a-4132-b941-92280303c5c4)
+
+
+![Screenshot 2024-11-24 220854](https://github.com/user-attachments/assets/21a6e24e-6781-4fd9-a151-d66d9c975e62)
 
 
 
