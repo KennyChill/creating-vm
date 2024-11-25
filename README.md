@@ -108,5 +108,5 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 You have created your first virtual machine within Azure!
 
 
-<img src="https://i.imgur.com/rEBpL8Y.png" height="80%" width="80%" alt="Azure Free Account"/>
+
 
