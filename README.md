@@ -1,6 +1,5 @@
 <p align="center">
      
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/d3f91b83-0e3f-44b3-9316-1394b488bb6b)
 
 </p>
 
@@ -24,8 +23,6 @@ Azure is a cloud computing platform and an online portal that allows you to acce
      - You may also go to [portal.azure.com](https://www.portal.azure.com) to start
 
 
- ![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/683a27fa-6560-49dd-bf22-b1c9ba29ffc8)
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/9d498615-bbef-4155-9403-bdadc2de973a)
 
 
 
@@ -51,8 +48,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
     - Use the same resource group and region as step 2
 - Select Review, then Create
 
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/91b03864-a0b8-4572-a124-20702b911024)
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/d0e6dbfa-37e9-442d-b86c-b91a916287a3)
+
 
 
 
@@ -65,8 +61,6 @@ Azure is a cloud computing platform and an online portal that allows you to acce
     - For thise example, we will name the virtual machine "virtualmachine"
     - Use the same resource group and region as steps 2 and 3
 
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/d34c6a17-1ecb-4dc0-b6c0-05992875858b)
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/2a2eb7fb-93e1-4652-86fe-fdab55c4d339)
 
 
 
@@ -81,8 +75,6 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 * Click the box under licensing and finally click Review + Create 
 
 
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/0d1a458c-6aee-4f21-8a24-b3a515c590ff)
-
  
      
 
@@ -92,7 +84,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
    - Select the virtual machine we created and the public IP address will be on the right-hand side of the screen
    - Copy the public IP address
 
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/59119219-039a-4abf-a562-5566e5a9813b)
+
 
 
 * Mac Users 
@@ -107,8 +99,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
      - Paste the public IP Address and select Connect
      - Enter the username and password from step 4
      - Select OK
-  
-![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/cf223864-6c5d-4815-8e5f-268aecb0d09b)
+
 
 
 
