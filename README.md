@@ -33,7 +33,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 - Select Create Resource Group
 - You will need to name the resource group and select the region 
 - Select Review + Create on the lower left
-    - For this example, we will be using Web-vm for the name and (US) East US 2 for the region
+    - For this example, we will be using Web-vm for the name and (US) East US 1 for the region
 
 ![Screenshot 2024-11-24 215403](https://github.com/user-attachments/assets/0ac74596-7169-4c07-b20c-4eb1596062dd)
 
