@@ -22,6 +22,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 - Finish the prompt, click Go to Azure Portal, and you are ready to start with Azure!
      - You may also go to [portal.azure.com](https://www.portal.azure.com) to start
 
+![Screenshot 2024-11-24 215051](https://github.com/user-attachments/assets/52ee6570-12bb-4f6a-b673-d5a45c27e7b5)
 
 
 
@@ -32,8 +33,9 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 - Select Create Resource Group
 - You will need to name the resource group and select the region 
 - Select Review + Create on the lower left
-    - For this example, we will be using RG-Lab-1 for the name and (US) East US 2 for the region
+    - For this example, we will be using Web-vm for the name and (US) East US 2 for the region
 
+![Screenshot 2024-11-24 215403](https://github.com/user-attachments/assets/0ac74596-7169-4c07-b20c-4eb1596062dd)
 
 
 
@@ -49,6 +51,7 @@ Azure is a cloud computing platform and an online portal that allows you to acce
 
 
 
+![Screenshot 2024-11-24 215932](https://github.com/user-attachments/assets/b880adb5-0550-4f7c-a3fb-e2198a9fff01)
 
 
 
@@ -60,8 +63,12 @@ Azure is a cloud computing platform and an online portal that allows you to acce
     - For thise example, we will name the virtual machine "virtualmachine"
     - Use the same resource group and region as steps 2 and 3
 
+![Screenshot 2024-11-24 215513](https://github.com/user-attachments/assets/ee0a9a8c-ba5b-48cf-9a1b-c451e856a9ec)
+
+![Screenshot 2024-11-24 215525](https://github.com/user-attachments/assets/612bc7dd-b922-457b-a7d7-328550a2b6df)
 
 
+![Screenshot 2024-11-24 215602](https://github.com/user-attachments/assets/41ab1e7e-01a5-4b3e-b949-16050448f1a9)
 
 
 
@@ -72,6 +79,17 @@ Azure is a cloud computing platform and an online portal that allows you to acce
     - For username, we will use "labuser"
     - Create your own password
 * Click the box under licensing and finally click Review + Create 
+
+![Screenshot 2024-11-24 220704](https://github.com/user-attachments/assets/769ca32c-744e-42f5-8790-f619c597e2f9)
+
+![Screenshot 2024-11-24 220734](https://github.com/user-attachments/assets/32a508d6-391a-4132-b941-92280303c5c4)
+
+
+![Screenshot 2024-11-24 220854](https://github.com/user-attachments/assets/21a6e24e-6781-4fd9-a151-d66d9c975e62)
+
+
+
+
 
 
  
