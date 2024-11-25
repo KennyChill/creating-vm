@@ -1,5 +1,7 @@
 <p align="center">
-     
+       
+![image](https://github.com/JustinPeguero/virtual-machine/assets/170198869/d3f91b83-0e3f-44b3-9316-1394b488bb6b)
+   
 
 </p>
 
